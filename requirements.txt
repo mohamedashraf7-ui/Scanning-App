@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+fuzzywuzzy[speedup]
+python-levenshtein
+XlsxWriter
+sentence-transformers
+torch
